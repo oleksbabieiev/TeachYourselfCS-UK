@@ -75,7 +75,7 @@
     <img align="right" height="300" src="https://teachyourselfcs.com/csapp.jpg">
 </a>
 
-> Апаратне забезпечнння – це платформа.
+> Апаратне забезпечення – це платформа.
 >
 > — Майк Актон, Engine Director в Insomniac Games ([дивись його виступ на CppCon](https://www.youtube.com/watch?v=rX0ItVEVjHc))
 
